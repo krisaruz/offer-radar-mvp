@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Offer Radar MVP</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Interview Intelligence MVP</p>
+        <h1>Agent / 测开 面试雷达</h1>
+        <p class="subtitle">直接看流程、时长、轮次和高频追问。当前口径已排除实习、暑期、校招、秋招，只保留明确社招或未说明招聘类型的公开面经信号。</p>
+      </div>
+      <div class="header-actions">
+        <a class="source-link" href="./data/interview-events.json">查看原始 JSON</a>
+        <span id="updatedAt" class="updated"></span>
+      </div>
+    </header>
+
+    <main>
+      <section class="metrics-grid" id="metrics"></section>
+
+      <section class="layout">
+        <aside class="sidebar">
+          <div class="panel">
+            <h2>筛选</h2>
+            <label class="search-label" for="searchInput">关键词</label>
+            <input id="searchInput" type="search" placeholder="RAG / pytest / 二面 / 36min" />
+            <div class="chip-group" id="trackFilters"></div>
+          </div>
+
+          <div class="panel">
+            <h2>流程画像</h2>
+            <div class="flow-map">
+              <div class="flow-step">
+                <span>01</span>
+                <strong>技术一面</strong>
+                <p>25-60min，项目深挖 + 基础/算法。测开会加场景测试，Agent 会加 RAG/工具调用。</p>
+              </div>
+              <div class="flow-step">
+                <span>02</span>
+                <strong>技术二面</strong>
+                <p>常见 45-60min，追系统设计、失败排查、岗位匹配。测开更开发化，Agent 更工程化。</p>
+              </div>
+              <div class="flow-step">
+                <span>03</span>
+                <strong>三面 / 交叉面</strong>
+                <p>样本较少。更可能看业务理解、复杂项目、候选人与团队方向匹配。</p>
+              </div>
+              <div class="flow-step">
+                <span>04</span>
+                <strong>HRBP / 谈薪</strong>
+                <p>到岗时间、稳定性、期望、实习周期。实习岗经常在技术面里提前问。</p>
+              </div>
+            </div>
+          </div>
+        </aside>
+
+        <section class="content">
+          <section class="panel daily-panel">
+            <div class="section-head">
+              <div>
+                <h2>今日推送问题</h2>
+                <p>按优先级推送：AI测开 > AI产品经理 > Agent开发 > 普通测试。每题都保留原帖跳转和答案来源。</p>
+              </div>
+              <span id="dailyCount" class="result-count"></span>
+            </div>
+            <div class="question-feed" id="dailyQuestions"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-head">
+              <div>
+                <h2>高频问题簇</h2>
+                <p>按样本中的题目和追问标签聚合，越靠前越值得优先准备。</p>
+              </div>
+            </div>
+            <div class="theme-grid" id="themeGrid"></div>
+          </section>
+
+          <section class="panel">
+            <div class="section-head">
+              <div>
+                <h2>面经事件流</h2>
+              <p>每张卡就是一条保留样本，展开看每轮时长和问题。</p>
+              </div>
+              <span id="resultCount" class="result-count"></span>
+            </div>
+            <div class="cards" id="eventCards"></div>
+          </section>
+
+          <section class="panel">
+            <h2>Agent 测试 / 质量专题</h2>
+            <div id="agentQuality" class="quality-box"></div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="./src/app.js"></script>
+  </body>
+</html>

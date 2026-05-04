@@ -1,0 +1,2 @@
+# No external dependencies required for basic fetching
+# All standard library is used

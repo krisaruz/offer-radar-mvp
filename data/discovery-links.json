@@ -1,0 +1,59 @@
+{
+  "note": "Open these searches in a logged-in browser when needed. Do not bypass login, captcha, or platform access controls.",
+  "queries": [
+    {
+      "query": "小红书 Agent开发 面试 一面 二面 多久",
+      "urls": {
+        "bing": "https://www.bing.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85",
+        "google": "https://www.google.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85",
+        "xiaohongshu": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85",
+        "nowcoder": "https://www.nowcoder.com/search?query=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85"
+      }
+    },
+    {
+      "query": "小红书 AI Agent开发 面经 RAG 工具调用",
+      "urls": {
+        "bing": "https://www.bing.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20AI%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E7%BB%8F%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8",
+        "google": "https://www.google.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20AI%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E7%BB%8F%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8",
+        "xiaohongshu": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20AI%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E7%BB%8F%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8",
+        "nowcoder": "https://www.nowcoder.com/search?query=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20AI%20Agent%E5%BC%80%E5%8F%91%20%E9%9D%A2%E7%BB%8F%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8"
+      }
+    },
+    {
+      "query": "小红书 测试开发 面试 一面 二面 多久",
+      "urls": {
+        "bing": "https://www.bing.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85",
+        "google": "https://www.google.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85",
+        "xiaohongshu": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85",
+        "nowcoder": "https://www.nowcoder.com/search?query=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20%E4%B8%80%E9%9D%A2%20%E4%BA%8C%E9%9D%A2%20%E5%A4%9A%E4%B9%85"
+      }
+    },
+    {
+      "query": "小红书 测开 实习 面经 Linux adb pytest",
+      "urls": {
+        "bing": "https://www.bing.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E5%BC%80%20%E5%AE%9E%E4%B9%A0%20%E9%9D%A2%E7%BB%8F%20Linux%20adb%20pytest",
+        "google": "https://www.google.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E5%BC%80%20%E5%AE%9E%E4%B9%A0%20%E9%9D%A2%E7%BB%8F%20Linux%20adb%20pytest",
+        "xiaohongshu": "https://www.xiaohongshu.com/search_result?keyword=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E5%BC%80%20%E5%AE%9E%E4%B9%A0%20%E9%9D%A2%E7%BB%8F%20Linux%20adb%20pytest",
+        "nowcoder": "https://www.nowcoder.com/search?query=%E5%B0%8F%E7%BA%A2%E4%B9%A6%20%E6%B5%8B%E5%BC%80%20%E5%AE%9E%E4%B9%A0%20%E9%9D%A2%E7%BB%8F%20Linux%20adb%20pytest"
+      }
+    },
+    {
+      "query": "Agent测试 面试题 评测 RAG 工具调用 质量",
+      "urls": {
+        "bing": "https://www.bing.com/search?q=Agent%E6%B5%8B%E8%AF%95%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%E8%AF%84%E6%B5%8B%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%20%E8%B4%A8%E9%87%8F",
+        "google": "https://www.google.com/search?q=Agent%E6%B5%8B%E8%AF%95%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%E8%AF%84%E6%B5%8B%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%20%E8%B4%A8%E9%87%8F",
+        "xiaohongshu": "https://www.xiaohongshu.com/search_result?keyword=Agent%E6%B5%8B%E8%AF%95%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%E8%AF%84%E6%B5%8B%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%20%E8%B4%A8%E9%87%8F",
+        "nowcoder": "https://www.nowcoder.com/search?query=Agent%E6%B5%8B%E8%AF%95%20%E9%9D%A2%E8%AF%95%E9%A2%98%20%E8%AF%84%E6%B5%8B%20RAG%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%20%E8%B4%A8%E9%87%8F"
+      }
+    },
+    {
+      "query": "AI应用开发 面试 Agent 测试 可靠性 评测",
+      "urls": {
+        "bing": "https://www.bing.com/search?q=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20Agent%20%E6%B5%8B%E8%AF%95%20%E5%8F%AF%E9%9D%A0%E6%80%A7%20%E8%AF%84%E6%B5%8B",
+        "google": "https://www.google.com/search?q=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20Agent%20%E6%B5%8B%E8%AF%95%20%E5%8F%AF%E9%9D%A0%E6%80%A7%20%E8%AF%84%E6%B5%8B",
+        "xiaohongshu": "https://www.xiaohongshu.com/search_result?keyword=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20Agent%20%E6%B5%8B%E8%AF%95%20%E5%8F%AF%E9%9D%A0%E6%80%A7%20%E8%AF%84%E6%B5%8B",
+        "nowcoder": "https://www.nowcoder.com/search?query=AI%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%E9%9D%A2%E8%AF%95%20Agent%20%E6%B5%8B%E8%AF%95%20%E5%8F%AF%E9%9D%A0%E6%80%A7%20%E8%AF%84%E6%B5%8B"
+      }
+    }
+  ]
+}
