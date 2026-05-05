@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-04",
-  "scopeNote": "MVP seed set from publicly accessible interview posts and role signals. Dashboard display now excludes explicit internship, summer internship, campus recruiting, autumn recruiting, and cohort recruiting samples; it keeps explicit social-recruiting samples and posts whose recruiting type is not stated.",
+  "updatedAt": "2026-05-05",
+  "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
       "id": "xhs-agent-dev-20260412",
@@ -678,6 +678,81 @@
       ],
       "recruitingType": "excluded",
       "hiddenReason": "标题明确为测试开发实习生"
+    },
+    {
+      "id": "nowcoder-8b3733bdc76df3f6",
+      "title": "【大模型高频面试题】50+核心概念题库+AI陪练！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/769275190441148416",
+      "sourceDate": "2026-05-05",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "RAG",
+            "测试设计",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "全覆盖大模型知识图谱 架构基础 ：Transformer、Self-Attention、多头注意力机制 训练优化 ：预训练/SFT/RLHF三阶段、混合精度训练",
+            "高频考点深度解析 参数量7B/13B ：参数规模与模型能力的Scaling Law关系 Prompt Engineering ：如何设计指令控制模型输出（附代码",
+            "AI陪练+边背边练 智能批改 ：提交答案后AI实时反馈，指出知识盲区（如混淆SFT与微调差异） 真题实战 ：200+大厂真题（含阿里/腾讯/字节最新面经），模拟"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "rag",
+        "algorithm",
+        "test-case-design"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-729b8b70dbaed460",
+      "title": "小红书质效研发面经「题刷少了很吃亏啊」_牛客网",
+      "company": "小红书",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/792144715847127040?sourceSSR=search",
+      "sourceDate": "2026-05-05",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "RAG",
+            "Agent架构",
+            "MCP/工具调用",
+            "Redis"
+          ],
+          "questions": [
+            "自我介绍几分钟 2、实习的提效工具怎么工程化落地，混合了对Agent、MCP、RAG的工具性理解 3、Redis为什么高效 4、Redis的缓存雪崩、缓存击穿、",
+            "TCP为什么是可靠传输 6、连不上服务（time_wait）怎么排查 7、多线程的锁机制 8、并发、并行及其应用场景 9、乐观锁和悲观锁 10、浅拷贝和深拷贝及",
+            "假设有一个超大文件，以最省内存（并非空间复杂度）的方法输出前十个最大的数 12、有null值的两表联查 反问环节：题刷少了很吃亏啊（如题） 面试完发面试评价邮件"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "redis"
+      ],
+      "recruitingType": "excluded"
     }
   ],
   "derivedClusters": [
