@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 .vscode/
+data/.xhs_cookies.json
+.env

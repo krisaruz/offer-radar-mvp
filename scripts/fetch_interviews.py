@@ -334,6 +334,27 @@ def dedupe_events(existing: list[dict], new_events: list[dict]) -> list[dict]:
     return [e for e in new_events if e.get("sourceUrl") not in existing_urls]
 
 
+def fetch_from_xiaohongshu() -> list[dict[str, Any]]:
+    """尝试从小红书采集面经，失败时返回空列表。"""
+    try:
+        import sys
+        sys.path.insert(0, str(Path(__file__).parent))
+        from fetch_xiaohongshu import fetch_xhs_interviews
+        print("\n  [小红书] 开始采集...")
+        events = fetch_xhs_interviews(headless=True)
+        print(f"  [小红书] 采集到 {len(events)} 条面经")
+        return events
+    except FileNotFoundError as e:
+        print(f"  [小红书] 跳过 - Cookie 未配置: {e}")
+        return []
+    except ImportError:
+        print("  [小红书] 跳过 - playwright 未安装")
+        return []
+    except Exception as e:
+        print(f"  [小红书] 采集失败: {e}")
+        return []
+
+
 def main() -> int:
     print(f"[{utc_date()}] Starting interview data fetch...")
 
@@ -378,6 +399,10 @@ def main() -> int:
         if event and event.get("rounds"):
             new_events.append(event)
             print(f"       Extracted: {event['title'][:40]}")
+
+    # 小红书采集
+    xhs_events = fetch_from_xiaohongshu()
+    new_events.extend(xhs_events)
 
     # Dedupe
     unique_new = dedupe_events(existing_events, new_events)

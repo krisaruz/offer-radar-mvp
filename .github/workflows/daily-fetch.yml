@@ -24,6 +24,19 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install chromium --with-deps
+
+      - name: Restore XHS cookies
+        if: env.XHS_COOKIES != ''
+        env:
+          XHS_COOKIES: ${{ secrets.XHS_COOKIES }}
+        run: |
+          mkdir -p data
+          echo "$XHS_COOKIES" > data/.xhs_cookies.json
+
       - name: Run fetch script
         run: python scripts/fetch_interviews.py
 
@@ -41,8 +54,19 @@ jobs:
           git commit -m "chore: update interview data $(date -u +%Y-%m-%d)"
           git push
 
+      - name: Notify Feishu
+        if: always()
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: |
+          if [ -n "$FEISHU_WEBHOOK" ]; then
+            python scripts/notify_feishu.py
+          else
+            echo "FEISHU_WEBHOOK not set, skipping notification"
+          fi
+
       - name: Summary
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          echo "✅ Interview data updated successfully"
-          echo "📅 Date: $(date -u +%Y-%m-%d)"
+          echo "Interview data updated successfully"
+          echo "Date: $(date -u +%Y-%m-%d)"
