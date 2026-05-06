@@ -38,10 +38,10 @@ XHS_SEARCH_QUERIES = [
     "面经 一面 二面 技术面",
 ]
 
-MAX_NOTES_PER_QUERY = 15
-MAX_TOTAL_NOTES = 50
-REQUEST_DELAY_RANGE = (3, 7)
-SEARCH_GAP_RANGE = (8, 15)
+MAX_NOTES_PER_QUERY = 8
+MAX_TOTAL_NOTES = 30
+REQUEST_DELAY_RANGE = (5, 10)
+SEARCH_GAP_RANGE = (15, 25)
 
 XHS_SEARCH_URL = "https://www.xiaohongshu.com/search_result?keyword={keyword}&source=web_search_result_note"
 XHS_NOTE_URL = "https://www.xiaohongshu.com/explore/{note_id}"
