@@ -32,15 +32,29 @@ def utc_date() -> str:
 
 
 def load_today_events() -> list[dict[str, Any]]:
-    """加载今天新采集的事件。"""
+    """加载今天新采集的事件，若无则回退到最近 3 天的未推送事件。"""
     if not EVENTS_FILE.exists():
         return []
     data = json.loads(EVENTS_FILE.read_text(encoding="utf-8"))
     today = utc_date()
-    return [
+
+    today_events = [
         e for e in data.get("events", [])
         if e.get("sourceDate") == today and e.get("recruitingType") != "excluded"
     ]
+    if today_events:
+        return today_events
+
+    from datetime import timedelta
+    recent_dates = [
+        (datetime.now(timezone.utc) - timedelta(days=i)).strftime("%Y-%m-%d")
+        for i in range(1, 4)
+    ]
+    recent_events = [
+        e for e in data.get("events", [])
+        if e.get("sourceDate") in recent_dates and e.get("recruitingType") != "excluded"
+    ]
+    return recent_events[:5]
 
 
 def build_event_element(event: dict) -> dict:
@@ -75,11 +89,19 @@ def build_card(events: list[dict]) -> dict:
     today = utc_date()
     count = len(events)
 
+    is_today = any(e.get("sourceDate") == today for e in events)
+    if is_today:
+        title_text = f"面经雷达 - {today} 新增 {count} 条"
+        template = "blue"
+    else:
+        title_text = f"面经雷达 - 近期精选 {count} 条面经"
+        template = "turquoise"
+
     header = {
-        "template": "blue",
+        "template": template,
         "title": {
             "tag": "plain_text",
-            "content": f"面经雷达 - {today} 新增 {count} 条"
+            "content": title_text
         }
     }
 

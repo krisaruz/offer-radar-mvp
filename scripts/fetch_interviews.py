@@ -23,13 +23,14 @@ EVENTS_FILE = DATA_DIR / "interview-events.json"
 QUESTIONS_FILE = DATA_DIR / "daily-questions.json"
 
 SEARCH_QUERIES = [
-    "小红书 Agent开发 面经 社招",
-    "小红书 AI测试 面经 面试题",
-    "小红书 测开 面试 一面 二面",
-    "小红书 大模型 面经 RAG",
-    "Agent开发 面试题 牛客",
-    "AI测开 面试题 大模型",
-    "大模型测试 面经 社招",
+    "Agent开发 面试 面经 2026",
+    "AI测试 测开 面经 2026",
+    "大模型 面经 RAG Agent",
+    "AI工程师 面试题 社招 面经",
+    "测试开发 面经 一面 二面",
+    "LLM 面试 算法 面经",
+    "AIGC 面经 offer",
+    "MCP Agent 面试",
 ]
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -388,17 +389,24 @@ def main() -> int:
                 print(f"       Extracted: {event['title'][:40]}")
 
     # Also try Nowcoder's own search to discover posts
-    print("\n  Searching Nowcoder directly...")
-    nc_results = search_nowcoder("小红书 Agent 面经", max_pages=2)
-    for url in nc_results:
-        if url in seen_urls:
-            continue
-        seen_urls.add(url)
-        print(f"    -> {url[:80]}...")
-        event = scrape_nowcoder_post(url)
-        if event and event.get("rounds"):
-            new_events.append(event)
-            print(f"       Extracted: {event['title'][:40]}")
+    nc_queries = [
+        "Agent开发 面经",
+        "大模型 面试 面经",
+        "AI测试 测开 面经",
+        "RAG 面经 面试",
+    ]
+    for nq in nc_queries:
+        print(f"\n  Searching Nowcoder: {nq}")
+        nc_results = search_nowcoder(nq, max_pages=2)
+        for url in nc_results:
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            print(f"    -> {url[:80]}...")
+            event = scrape_nowcoder_post(url)
+            if event and event.get("rounds"):
+                new_events.append(event)
+                print(f"       Extracted: {event['title'][:40]}")
 
     # 小红书采集
     xhs_events = fetch_from_xiaohongshu()
