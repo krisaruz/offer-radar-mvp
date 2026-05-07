@@ -336,14 +336,30 @@ def dedupe_events(existing: list[dict], new_events: list[dict]) -> list[dict]:
 
 
 def fetch_from_xiaohongshu() -> list[dict[str, Any]]:
-    """尝试从小红书采集面经，失败时返回空列表。"""
+    """尝试从小红书采集面经，失败或超时返回空列表。"""
+    import signal
+    import os
+
+    timeout_sec = int(os.environ.get("XHS_TIMEOUT", "300"))
+
+    def _timeout_handler(signum, frame):
+        raise TimeoutError("小红书采集超时")
+
     try:
         import sys
         sys.path.insert(0, str(Path(__file__).parent))
         from fetch_xiaohongshu import fetch_xhs_interviews
-        print("\n  [小红书] 开始采集...")
+
+        if hasattr(signal, "SIGALRM"):
+            signal.signal(signal.SIGALRM, _timeout_handler)
+            signal.alarm(timeout_sec)
+
+        print(f"\n  [小红书] 开始采集（超时 {timeout_sec}s）...")
         events = fetch_xhs_interviews(headless=True)
         print(f"  [小红书] 采集到 {len(events)} 条面经")
+
+        if hasattr(signal, "SIGALRM"):
+            signal.alarm(0)
         return events
     except FileNotFoundError as e:
         print(f"  [小红书] 跳过 - Cookie 未配置: {e}")
@@ -351,9 +367,15 @@ def fetch_from_xiaohongshu() -> list[dict[str, Any]]:
     except ImportError:
         print("  [小红书] 跳过 - playwright 未安装")
         return []
+    except TimeoutError:
+        print(f"  [小红书] 超时（{timeout_sec}s），跳过")
+        return []
     except Exception as e:
         print(f"  [小红书] 采集失败: {e}")
         return []
+    finally:
+        if hasattr(signal, "SIGALRM"):
+            signal.alarm(0)
 
 
 def main() -> int:
