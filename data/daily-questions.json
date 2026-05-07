@@ -140,6 +140,60 @@
       ]
     },
     {
+      "id": "nowcoder-0a31489ba2020222-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "16、32、64；显存紧用偏小，效果不够再加大或增加 target module",
+      "question": "16、32、64；显存紧用偏小，效果不够再加大或增加 target module",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/881209147377664000?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "automation"
+      ]
+    },
+    {
+      "id": "nowcoder-0a31489ba2020222-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "6+ 顺序、死锁四条件背全",
+      "question": "6+ 顺序、死锁四条件背全",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/881209147377664000?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "automation"
+      ]
+    },
+    {
+      "id": "nowcoder-0a31489ba2020222-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "6+ 字典保持插入顺序（有序作为语言特性）",
+      "question": "6+ 字典保持插入顺序（有序作为语言特性）",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/881209147377664000?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "automation"
+      ]
+    },
+    {
       "id": "nowcoder-8b3733bdc76df3f6-q0",
       "priority": 2,
       "track": "通用",

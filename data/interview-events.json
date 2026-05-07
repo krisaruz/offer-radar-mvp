@@ -792,6 +792,45 @@
         "test-case-design"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-0a31489ba2020222",
+      "title": "【面试真题】美团Agent 方向面经整理（思路引导 + 推荐回答）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/881209147377664000?sourceSSR=search",
+      "sourceDate": "2026-05-07",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "MCP/工具调用"
+          ],
+          "questions": [
+            "16、32、64；显存紧用偏小，效果不够再加大或增加 target module",
+            "6+ 顺序、死锁四条件背全",
+            "6+ 字典保持插入顺序（有序作为语言特性）"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "automation"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [
