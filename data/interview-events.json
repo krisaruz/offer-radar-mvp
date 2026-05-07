@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05",
+  "updatedAt": "2026-05-07",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -751,6 +751,45 @@
         "rag",
         "tool-calling",
         "redis"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-10565922773d3ba0",
+      "title": "小红书测开一二三+HR面(已意向)_牛客网",
+      "company": "小红书",
+      "roleTrack": "测开",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158644936155136",
+      "sourceDate": "2026-05-07",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "测试设计",
+            "算法"
+          ],
+          "questions": [
+            "点问题，需求评审的时候有哪些是需要QA去push的 5",
+            "自己偏向业务前端还是服务后端 对搜索算法这一类有没有兴趣 3",
+            "好几个思路，写了两个算法 4",
+            "自我介绍 + 实习 2",
+            "测试微信评论，性能需要考虑哪些方面 4",
+            "进程和线程 6"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "algorithm",
+        "project-deep-dive",
+        "test-case-design"
       ],
       "recruitingType": "excluded"
     }
