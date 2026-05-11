@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07",
+  "updatedAt": "2026-05-11",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -831,6 +831,39 @@
         "automation"
       ],
       "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-08507a97652efe2a",
+      "title": "26年校招华为校招笔试机试-高频问题【民间非官方整理】_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/790918305140711424?sourceSSR=search",
+      "sourceDate": "2026-05-11",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "测试设计",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "Java、Python2、Python3、Go、JavaScript、C#、R"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "algorithm",
+        "test-case-design"
+      ],
+      "recruitingType": "excluded"
     }
   ],
   "derivedClusters": [
