@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12",
+  "updatedAt": "2026-05-18",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -902,6 +902,35 @@
         "algorithm",
         "project-deep-dive"
       ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-067027d5a9f87d6d",
+      "title": "浪潮网络工程师校招面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353156220301287424?sourceSSR=search",
+      "sourceDate": "2026-05-18",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "为什么选择我们公司？",
+            "对你影响下最大的事是什么？",
+            "对环路的理解？",
+            "Linux目录结构 5"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
       "recruitingType": "excluded"
     }
   ],
