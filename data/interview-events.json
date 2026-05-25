@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18",
+  "updatedAt": "2026-05-25",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -931,6 +931,45 @@
       ],
       "takeaways": [],
       "tags": [],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-46aa0f31b854f211",
+      "title": "嵌入式面经111题答案汇总(含技术答疑)_3大嵌入式项目源码分享—嵌入式Linux项目_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/888086818845913088?sourceSSR=search",
+      "sourceDate": "2026-05-25",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "MCP/工具调用",
+            "算法"
+          ],
+          "questions": [
+            "简介 本人是2020年毕业于广东工业大学研究生：许乔丹，有国内大厂CVTE和世界500强企业工作经验，整理 超全面111道嵌入式面试题目答案解析（承诺提供专栏内",
+            "项目经验 如果你找的是单片机，那就只要单片机的项目，如果你是嵌入式linux，你可以最多写一个单片机项目，其他都要写嵌入式linux的项目",
+            "1 基于人脸属性识别的嵌入式电影推荐系统（嵌入式人工智能项目、可提供源码） 1）情况：为解决“信息过载”问题，提出基于人脸属性识别的广告推荐系统",
+            "2 基于Linux6818开发板的视频播放器（最好的入门项目，可提供源码） 本项目基于嵌入式linux6818开发板，制作一个音视频播放器",
+            "3 基于Linux6818开发板的智能车库项目（进阶项目，可提供源码） 没错，也是粤嵌6818开发板，搭配触摸屏、USB摄像头、音响，模拟实现真实场景中的智能车",
+            "嵌入式111道高频面试题 八股文不在于量多，熟悉以下111道题就够啦"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "tool-calling",
+        "algorithm",
+        "project-deep-dive"
+      ],
       "recruitingType": "excluded"
     }
   ],
