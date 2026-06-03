@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25",
+  "updatedAt": "2026-06-03",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -971,6 +971,201 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-d89da9d3f4e64c45",
+      "title": "Agent面经汇总（含答题思路_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891332286421929984?sourceSSR=search",
+      "sourceDate": "2026-06-03",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "RAG",
+            "Agent架构",
+            "MCP/工具调用",
+            "工具调用"
+          ],
+          "questions": [
+            "Agent / 工具调用 介绍一下 Agent 的核心组件 思路:LLM(规划+推理) + Memory(短/长期) + Tools(外部能力) + Plann",
+            "RAG / 检索 介绍一下 RAG 的整体流程 思路:Query → 改写(可选) → Embed → 检索(向量+BM25 混合) → Rerank → 组装"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-8a1c7281a47ab91d",
+      "title": "Rocky Ding：深耕AI行业五年，我们要拥抱并推动AI Agent浪潮_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891048551503962112?sourceSSR=search",
+      "sourceDate": "2026-06-03",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "Agent架构",
+            "测试设计",
+            "自动化"
+          ],
+          "questions": [
+            "AIGC“中场时刻”：旧技术退潮，原生多模态登场 Rocky在2022年AIGC时代元年就All in深耕AIGC图像创作领域，所以对这一轮变化的体感非常强",
+            "AI Agent浪潮：AIGC从生成内容走向需求交付 如果说AIGC图像和视频大模型的突破，解决的是“生成能力”的问题， 那么AI Agent浪潮真正打开的，是",
+            "Vibe Coding革命：编程第一次成为人人可用的思想工具 过去，编程是一个门槛很高的专业技能",
+            "共同影响：多年重复经验无价值，AI/互联网行业走向全栈化 AIGC中场、AI Agent、Vibe Coding三大变革合在一起，带来的不是线性进步，而是AI研",
+            "0、Kling等新一代视频模型和产品路线持续快速迭代，让很多曾经把Sora视为“不可战胜标杆”的人再次被现实教育了一次"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "automation",
+        "algorithm",
+        "project-deep-dive",
+        "test-case-design"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-bb9ee757379786f8",
+      "title": "三只松鼠供应链管培生终面凉经分享！！！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158864805765120?sourceSSR=search",
+      "sourceDate": "2026-06-03",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖"
+          ],
+          "questions": [
+            "通过官网网络投递，做笔试题（就北森题库一般行测题，语言10+数理10+图形10+性格98道） 2",
+            "三天后通知（三个工作日",
+            "等待了好多天，也有个3-5天吧，通知过来芜湖终试了，心情好忐忑，好害怕，偷偷背着学校跨省了，还是为了梦想吧",
+            "28就过来了",
+            "29 下午2点面试，呜呜呜好紧张，一点过去公司自己转了转周围环境，包括车间包括出库站台，还是很大的嘛，然后就在楼上等待面试，备好了零食和水，记得吃午饭"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-7e48ab23adb179f8",
+      "title": "三只松鼠电商管培生面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353156172809183232?sourceSSR=search",
+      "sourceDate": "2026-06-03",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "自我介绍 2",
+            "为什么想要来公司？",
+            "对于电商的认识？",
+            "做过最挫败的事？",
+            "还有什么问题想问我的？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-93ebe2f3da457cf2",
+      "title": "三只松鼠超级松鼠春招记录_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353157594258808832?sourceSSR=search",
+      "sourceDate": "2026-06-03",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "26-测评2",
+            "2-通知到场面3"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-8a7d6846237000ce",
+      "title": "三只松鼠面试_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158671511265280?sourceSSR=search",
+      "sourceDate": "2026-06-03",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "8去芜湖线下面试吗？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25",
+  "updatedAt": "2026-06-03",
   "dailyCount": 5,
   "questions": [
     {
@@ -194,6 +194,40 @@
       ]
     },
     {
+      "id": "nowcoder-d89da9d3f4e64c45-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "Agent / 工具调用 介绍一下 Agent 的核心组件 思路:LLM(规划+推理) + Memo...",
+      "question": "Agent / 工具调用 介绍一下 Agent 的核心组件 思路:LLM(规划+推理) + Memory(短/长期) + Tools(外部能力) + Plann",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891332286421929984?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory"
+      ]
+    },
+    {
+      "id": "nowcoder-d89da9d3f4e64c45-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "RAG / 检索 介绍一下 RAG 的整体流程 思路:Query → 改写(可选) → Embed ...",
+      "question": "RAG / 检索 介绍一下 RAG 的整体流程 思路:Query → 改写(可选) → Embed → 检索(向量+BM25 混合) → Rerank → 组装",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891332286421929984?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory"
+      ]
+    },
+    {
       "id": "nowcoder-8b3733bdc76df3f6-q0",
       "priority": 2,
       "track": "通用",
@@ -240,6 +274,18 @@
         "algorithm",
         "test-case-design"
       ]
+    },
+    {
+      "id": "nowcoder-8a7d6846237000ce-q0",
+      "priority": 2,
+      "track": "通用",
+      "title": "8去芜湖线下面试吗？",
+      "question": "8去芜湖线下面试吗？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158671511265280?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": []
     },
     {
       "id": "agent-dev-multi-agent-vs-skills",
