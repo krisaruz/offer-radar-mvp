@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03",
+  "updatedAt": "2026-06-08",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1166,6 +1166,84 @@
       "takeaways": [],
       "tags": [],
       "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-4ed3ad435e9fae50",
+      "title": "大模型算法面经+问题+答案_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891322059656052736?sourceSSR=search",
+      "sourceDate": "2026-06-08",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "大模型基础 / 架构 Transformer 的核心组件 思路:Self-Attention + FFN + LayerNorm + Residual + Po",
+            "微调 / 对齐 SFT / RLHF / DPO 的区别 思路:SFT 监督学指令+回答;RLHF 用奖励模型+PPO 对齐偏好;DPO 跳过奖励模型直接用偏好",
+            "Token / 上下文 / 推理 Token 是什么?",
+            "5 token,英文 1 词≈0"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "rag",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-6d5989bb647244a5",
+      "title": "Ideogram首次开源： Ideogram4.0图像创作大模型来袭！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/893233000530362368?sourceSSR=search",
+      "sourceDate": "2026-06-08",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "Agent架构",
+            "自动化",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "能不能把这个活动标题放上去？",
+            "0 这次最值得关注的地方就在这里",
+            "0 的本质不是“又一个 9",
+            "Ideogram 是谁：从“会写字的图像模型”到设计生成公司 Ideogram 是一家聚焦 AI 图像生成的公司，早期最鲜明的标签就是： 在图像里生成可读文字",
+            "0，这条路线进一步被工程化：官方将其称为自己的第一个 open-weight text-to-image model，并在 GitHub 仓库中公开了推理代码、",
+            "0 瞄准的正是这类需求"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "automation",
+        "algorithm"
+      ],
+      "recruitingType": "excluded"
     }
   ],
   "derivedClusters": [

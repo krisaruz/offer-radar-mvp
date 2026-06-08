@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03",
+  "updatedAt": "2026-06-08",
   "dailyCount": 5,
   "questions": [
     {
@@ -286,6 +286,70 @@
       "sourceHasAnswer": false,
       "answer": "",
       "tags": []
+    },
+    {
+      "id": "nowcoder-4ed3ad435e9fae50-q0",
+      "priority": 2,
+      "track": "通用",
+      "title": "大模型基础 / 架构 Transformer 的核心组件 思路:Self-Attention + F...",
+      "question": "大模型基础 / 架构 Transformer 的核心组件 思路:Self-Attention + FFN + LayerNorm + Residual + Po",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891322059656052736?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "algorithm",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-4ed3ad435e9fae50-q1",
+      "priority": 2,
+      "track": "通用",
+      "title": "微调 / 对齐 SFT / RLHF / DPO 的区别 思路:SFT 监督学指令+回答;RLHF ...",
+      "question": "微调 / 对齐 SFT / RLHF / DPO 的区别 思路:SFT 监督学指令+回答;RLHF 用奖励模型+PPO 对齐偏好;DPO 跳过奖励模型直接用偏好",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891322059656052736?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "algorithm",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-4ed3ad435e9fae50-q2",
+      "priority": 2,
+      "track": "通用",
+      "title": "Token / 上下文 / 推理 Token 是什么?",
+      "question": "Token / 上下文 / 推理 Token 是什么?",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891322059656052736?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "algorithm",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-4ed3ad435e9fae50-q3",
+      "priority": 2,
+      "track": "通用",
+      "title": "5 token,英文 1 词≈0",
+      "question": "5 token,英文 1 词≈0",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/891322059656052736?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "algorithm",
+        "project-deep-dive"
+      ]
     },
     {
       "id": "agent-dev-multi-agent-vs-skills",
