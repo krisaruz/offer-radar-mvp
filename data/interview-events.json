@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-16",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1283,6 +1283,34 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-b2eae0b6751de93d",
+      "title": "字节抖音测开面经_牛客网",
+      "company": "字节跳动",
+      "roleTrack": "测开",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158303209431040?sourceSSR=search",
+      "sourceDate": "2026-06-16",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "18 50min"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "test-case-design"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [

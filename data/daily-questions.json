@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-16",
   "dailyCount": 5,
   "questions": [
     {
@@ -80,6 +80,20 @@
         "Golden Case",
         "灰度",
         "质量平台"
+      ]
+    },
+    {
+      "id": "nowcoder-b2eae0b6751de93d-q0",
+      "priority": 1,
+      "track": "测开",
+      "title": "18 50min",
+      "question": "18 50min",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158303209431040?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "test-case-design"
       ]
     },
     {
