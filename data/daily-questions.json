@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16",
+  "updatedAt": "2026-06-18",
   "dailyCount": 5,
   "questions": [
     {
@@ -239,6 +239,114 @@
         "rag",
         "tool-calling",
         "memory"
+      ]
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "线上后端服务，除了需求点做完，还要注意什么？",
+      "question": "线上后端服务，除了需求点做完，还要注意什么？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
+        "test-case-design"
+      ]
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "PM 只给了需求文档，开发还要补什么？",
+      "question": "PM 只给了需求文档，开发还要补什么？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
+        "test-case-design"
+      ]
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "你大概通过什么途径去了解模型？",
+      "question": "你大概通过什么途径去了解模型？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
+        "test-case-design"
+      ]
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "各个模型的优点缺点 按我的实际感受（带主观）： GPT 系列 ：通用能力均衡、生态/插件最全、文档多...",
+      "question": "各个模型的优点缺点 按我的实际感受（带主观）： GPT 系列 ：通用能力均衡、生态/插件最全、文档多；缺点是贵，有时回答偏啰嗦",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
+        "test-case-design"
+      ]
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "各个模型适合处理什么场景？",
+      "question": "各个模型适合处理什么场景？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
+        "test-case-design"
+      ]
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244-q5",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "AI 工程和传统后端有什么区别？",
+      "question": "AI 工程和传统后端有什么区别？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
+        "test-case-design"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16",
+  "updatedAt": "2026-06-18",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1308,6 +1308,48 @@
       ],
       "takeaways": [],
       "tags": [
+        "test-case-design"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-b11ef7c1c1977244",
+      "title": "数字马力校企合作面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/896102139431223296?sourceSSR=search",
+      "sourceDate": "2026-06-18",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "工具调用"
+          ],
+          "questions": [
+            "线上后端服务，除了需求点做完，还要注意什么？",
+            "PM 只给了需求文档，开发还要补什么？",
+            "你大概通过什么途径去了解模型？",
+            "各个模型的优点缺点 按我的实际感受（带主观）： GPT 系列 ：通用能力均衡、生态/插件最全、文档多；缺点是贵，有时回答偏啰嗦",
+            "各个模型适合处理什么场景？",
+            "AI 工程和传统后端有什么区别？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "project-deep-dive",
         "test-case-design"
       ],
       "recruitingType": "unspecified"
