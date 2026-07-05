@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26",
+  "updatedAt": "2026-07-05",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1390,6 +1390,40 @@
         "tool-calling",
         "algorithm",
         "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-4af44d499ec5a6a9",
+      "title": "英雄游戏急招游戏运营！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/658633649474043904?sourceSSR=search",
+      "sourceDate": "2026-07-05",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "测试设计"
+          ],
+          "questions": [
+            "快速熟悉游戏，了解所有系统及玩法细节； 2",
+            "对接客服，解答游戏内常见问题； 4",
+            "学历本科及以上 2",
+            "熟练使用office工具； 4",
+            "沟通能力强，与各部门能够高效配合"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "test-case-design"
       ],
       "recruitingType": "excluded"
     }
