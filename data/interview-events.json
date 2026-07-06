@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05",
+  "updatedAt": "2026-07-06",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1425,6 +1425,65 @@
       "tags": [
         "test-case-design"
       ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-9cbca1d492f527cf",
+      "title": "面经攒好运-阿里_牛客网",
+      "company": "阿里巴巴",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353155376797392896?sourceSSR=search",
+      "sourceDate": "2026-07-06",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "算法"
+          ],
+          "questions": [
+            "项目介绍，用了哪些算法和数据结构，解决哪些问题 2、stl内存管理，泛型编程，萃取机制，红黑树原理 3、数据库优化，不使用慢查询机制怎么优化 4、多进程编程和多",
+            "高并发网络服务器怎么设计 6、内存越界会发生什么？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-8d54bf90dd53e9e1",
+      "title": "阿里巴巴 数据分析师实习 面经_牛客网",
+      "company": "阿里巴巴",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353156375637336064?sourceSSR=search",
+      "sourceDate": "2026-07-06",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "18投递——3"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
       "recruitingType": "excluded"
     }
   ],
