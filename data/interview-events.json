@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-27",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1522,6 +1522,122 @@
         "tool-calling",
         "algorithm",
         "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-b4e16d791cd49072",
+      "title": "面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/911006662880690176?sourceSSR=search",
+      "sourceDate": "2026-07-27",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "Agent架构",
+            "测试设计",
+            "自动化"
+          ],
+          "questions": [
+            "Python vs C++ 的应用场景与 PyTorch 模式差异 开发场景： Python 是算法工程师的“画笔”，主要用于快速原型验证、模型搭建与前向/反向",
+            "Transformer 的注意力与前馈网络：各自在建模什么？",
+            "RoPE 旋转位置编码的原理与注入位置 注入位置： 不同于绝对位置编码叠加在初始 Embedding 上，RoPE 是在自注意力层内部， 在 Query 和 K",
+            "LoRA 低秩微调的核心原理与作用层 核心原理： LoRA 假设大模型在微调更新时，权重矩阵的变化量 具有极低的内在秩（Intrinsic Rank）",
+            "智能体任务为何首选 GRPO？",
+            "GRPO 端到端闭环训练与 Rollout 实现逻辑 Step 1"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "automation",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-f175dcdcf4c471ac",
+      "title": "2026-07-22_淘天Agent社招一面面经分享（含完整答案）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/909920471301226496?sourceSSR=search",
+      "sourceDate": "2026-07-27",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "Agent架构",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "常规分类任务，为何选择推理式建模而非原生分类方案？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-0fd936ea14fab737",
+      "title": "面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/911012118059548672?sourceSSR=search",
+      "sourceDate": "2026-07-27",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "RAG",
+            "Agent架构",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "既然有了高质量思维数据集，为什么还要叠加 RL？",
+            "SFT 训练到什么状态，才适合切入 RL 阶段？",
+            "SFT 与 RL 数据集的区别与复用 SFT 数据： 必须是 高质量的 Prompt + Ground Truth（标准答案） ，注重多样性和逻辑严密性，成本极",
+            "为什么 RL 初期奖励值会短暂下跌，随后才稳步抬升？",
+            "7B 模型做 GRPO 训练，整体显存开销有多大？",
+            "字段提取场景的奖励函数（Reward）设计维度 在信息提取或推荐解释生成场景，奖励必须多维叠加： 格式奖励（Format Reward）： 必须是标准的 JSO"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm"
       ],
       "recruitingType": "excluded"
     }
