@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-06",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1679,6 +1679,41 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-739ba958398414ad",
+      "title": "2026-07-28_小红书_大模型算法岗面经分享（含完整答案）_牛客网",
+      "company": "小红书",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/914631997148958720?sourceSSR=search",
+      "sourceDate": "2026-08-06",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "Agent架构",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "介绍项目业务背景、完整业务链路，线上Query、Item数据量级 回答： 回答这道题不能只说“做了一个双塔模型”，要把业务目标、数据对象、离线训练、在线召回/排"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [

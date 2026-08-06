@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-06",
   "dailyCount": 5,
   "questions": [
     {
@@ -470,6 +470,22 @@
       "tags": [
         "agent-architecture",
         "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-739ba958398414ad-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "介绍项目业务背景、完整业务链路，线上Query、Item数据量级 回答： 回答这道题不能只说“做了一...",
+      "question": "介绍项目业务背景、完整业务链路，线上Query、Item数据量级 回答： 回答这道题不能只说“做了一个双塔模型”，要把业务目标、数据对象、离线训练、在线召回/排",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/914631997148958720?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm",
+        "project-deep-dive"
       ]
     },
     {
