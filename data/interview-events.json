@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06",
+  "updatedAt": "2026-08-14",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1712,6 +1712,88 @@
         "agent-architecture",
         "algorithm",
         "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-d90903f3f5bd8fde",
+      "title": "面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/917453368329572352?sourceSSR=search",
+      "sourceDate": "2026-08-14",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "RAG",
+            "Agent架构",
+            "测试设计",
+            "自动化"
+          ],
+          "questions": [
+            "奖励投机）",
+            "Agent 与 Workflow 的核心差异 Workflow (工作流)： 确定性的有向无环图 (DAG)",
+            "Action 动作集合的设计与拆分思路 原子化与正交性： 动作拆分必须足够细粒度且互相独立（正交），防止大模型产生选择困难",
+            "Claude-Code 将 Skills 配置放在 System Prompt 的底层原因 注意力权重 (Attention Weights)： 大模型对 Sy",
+            "提升长文本能力与大模型的上下文记忆底层机制 原生受限根源： 标准 Transformer 的自注意力机制复杂度是 ，且存在严重的“中间迷失 (Lost in t",
+            "多条冲突指令的处理落地方案 元认知 (Meta-cognition) 介入： 当 Agent 内部的意图解析模块检测到“高置信度的语义冲突”时，必须触发 “Wh"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "automation",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-ccf5c5ec752e66f0",
+      "title": "面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/917471293589446656?sourceSSR=search",
+      "sourceDate": "2026-08-14",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "RAG",
+            "测试设计",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "工业界文本语义切分技术（Chunking） 规则切分： 最基础的方案，基于特定的标识符（如换行符 \\n 、句号等）结合最大长度（Max Token Length",
+            "检索方案对比：Qwen3-Embedding vs BM25 vs BGE-M3 传统 BM25（稀疏检索）： 基于词频-逆文档频率（TF-IDF）的变体",
+            "RRF (Reciprocal Rank Fusion) 加权递归融合 原理： 在混合检索（如 BM25 + 向量检索）中，不同检索器的打分范围完全不同，无法直",
+            "RAG 标准链路与 Query 前置优化 为什么不能直接检索： 用户的原始输入往往是口语化、省略主语或带有错别字的（例如：“这俩有什么区别？",
+            "GraphRAG 图结构构建与差异化 逻辑： 传统 RAG 是把文章切碎，丢失了全局上下文",
+            "Transformer 架构与 的底层逻辑 架构简述： 包含自注意力机制（Self-Attention）、前馈神经网络（FFN）、层归一化（LayerNorm）"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "rag",
+        "algorithm",
+        "test-case-design"
       ],
       "recruitingType": "unspecified"
     }
