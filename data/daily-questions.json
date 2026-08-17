@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14",
+  "updatedAt": "2026-08-17",
   "dailyCount": 5,
   "questions": [
     {
@@ -593,6 +593,38 @@
         "rag",
         "memory",
         "automation",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ec2e6e092706c9cc-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "0 / math",
+      "question": "0 / math",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/918158513338085376?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ec2e6e092706c9cc-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "8 万亿参数计算，一个 Kimi K3 的总参数，大致相当于 22580 个 GPT-2",
+      "question": "8 万亿参数计算，一个 Kimi K3 的总参数，大致相当于 22580 个 GPT-2",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/918158513338085376?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
         "algorithm"
       ]
     },

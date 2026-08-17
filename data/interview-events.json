@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14",
+  "updatedAt": "2026-08-17",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1796,6 +1796,79 @@
         "test-case-design"
       ],
       "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-ec2e6e092706c9cc",
+      "title": "干货技术长文：从 GPT-2 到 Kimi K3，深入浅出讲解大模型的发展演变历程！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/918158513338085376?sourceSSR=search",
+      "sourceDate": "2026-08-17",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "Agent架构",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "0 / math",
+            "8 万亿参数计算，一个 Kimi K3 的总参数，大致相当于 22580 个 GPT-2"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-21f0e581e6f8b13d",
+      "title": "【三年面试五年模拟】2026-08-02_阿里巴巴_AI Agent开发岗暑期实习面经全解析_牛客网",
+      "company": "阿里巴巴",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/918182032297979904?sourceSSR=search",
+      "sourceDate": "2026-08-17",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "Redis"
+          ],
+          "questions": [
+            "介绍一下自己的项目，整体架构和技术栈是什么？",
+            "项目中 Agent 的完整流程是怎样的？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "redis",
+        "algorithm"
+      ],
+      "recruitingType": "excluded"
     }
   ],
   "derivedClusters": [
