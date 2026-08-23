@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-23",
   "dailyCount": 5,
   "questions": [
     {
@@ -626,6 +626,180 @@
         "agent-architecture",
         "memory",
         "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "一个角度——\"你说的这些模块，哪些是Chatbot也可以有的？",
+      "question": "一个角度——\"你说的这些模块，哪些是Chatbot也可以有的？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "简单介绍一下自己的背景，以及选择AI Agent方向的原因",
+      "question": "简单介绍一下自己的背景，以及选择AI Agent方向的原因",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "一个完整的Agent系统通常包含哪些核心模块？",
+      "question": "一个完整的Agent系统通常包含哪些核心模块？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "在Agent项目中，常见的规划（Planning）、记忆（Memory）、工具调用（Tool Use...",
+      "question": "在Agent项目中，常见的规划（Planning）、记忆（Memory）、工具调用（Tool Use）和执行模块分别承担什么职责？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "意图识别模块通常有哪些实现方式？",
+      "question": "意图识别模块通常有哪些实现方式？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869-q5",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "如果使用大模型完成意图分类，如何选择Zero-shot、Few-shot方案？",
+      "question": "如果使用大模型完成意图分类，如何选择Zero-shot、Few-shot方案？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-f58adf2422fedff0-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "简单介绍一下自己的经历，以及为什么选择AI Agent方向？",
+      "question": "简单介绍一下自己的经历，以及为什么选择AI Agent方向？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919595418265059328?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-f58adf2422fedff0-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "平时开发过程中主要使用哪些AI Coding工具？",
+      "question": "平时开发过程中主要使用哪些AI Coding工具？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919595418265059328?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-f58adf2422fedff0-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "如何理解Spec Coding和Harness？",
+      "question": "如何理解Spec Coding和Harness？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919595418265059328?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-f58adf2422fedff0-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "如果让你从零开始设计一个Agent系统，你认为需要包含哪些关键模块？",
+      "question": "如果让你从零开始设计一个Agent系统，你认为需要包含哪些关键模块？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919595418265059328?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
       ]
     },
     {

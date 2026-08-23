@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-23",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -1869,6 +1869,169 @@
         "algorithm"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-1341f9b0665c396e",
+      "title": "阿里云Agent开发，面完秒挂！！！_牛客网",
+      "company": "阿里巴巴",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920079269143871488?sourceSSR=search",
+      "sourceDate": "2026-08-23",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "Agent架构",
+            "测试设计",
+            "大模型"
+          ],
+          "questions": [
+            "\"这些Skill是你自己写的还是用的现成的？",
+            "\"你实际用过哪些？",
+            "自我介绍 + 详细了解（在校成绩、科研产出、项目经历） 这题没啥技术含量，但面试官会追问细节，建议提前想好\"故事线\"",
+            "平常怎么用AI辅助编码？",
+            "你提到了用Skill，介绍一下你常用的Skill 前面聊到AI Coding工具的时候我提了一句\"会写一些自定义Skill来提升效率\"，面试官立刻抓住了这点往下",
+            "这些Skill之间的区别知道吗？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "project-deep-dive",
+        "test-case-design"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-ac0ec5ff75157383",
+      "title": "【三年面试五年模拟】2026-08-12_小红书_AI Agent开发一面面经（含完整答案）_牛客网",
+      "company": "小红书",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919617105761165312?sourceSSR=search",
+      "sourceDate": "2026-08-23",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "MCP/工具调用"
+          ],
+          "questions": [
+            "问数字指标，还有业务上下游，代码框架",
+            "自我介绍一下",
+            "介绍一下你这个___实习关注指标是什么？",
+            "全都是实习相关问题，涉及Agent就狂追问，问了问数字指标，还有业务上下游，代码框架",
+            "Token、成本、任务成功率、工具正确率、恢复率以及实验置信度",
+            "说一下你这个项目Agent用在哪里"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-fa30f6ba4f68f869",
+      "title": "月之暗面AI应用岗Agent开发一面，全程被吊打！！！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/920077145584455680?sourceSSR=search",
+      "sourceDate": "2026-08-23",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "大模型"
+          ],
+          "questions": [
+            "一个角度——\"你说的这些模块，哪些是Chatbot也可以有的？",
+            "简单介绍一下自己的背景，以及选择AI Agent方向的原因",
+            "一个完整的Agent系统通常包含哪些核心模块？",
+            "在Agent项目中，常见的规划（Planning）、记忆（Memory）、工具调用（Tool Use）和执行模块分别承担什么职责？",
+            "意图识别模块通常有哪些实现方式？",
+            "如果使用大模型完成意图分类，如何选择Zero-shot、Few-shot方案？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-f58adf2422fedff0",
+      "title": "【三年面试五年模拟】2026-08-09_影石创新_AI Agent一面面经（含完整答案）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919595418265059328?sourceSSR=search",
+      "sourceDate": "2026-08-23",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "测试设计"
+          ],
+          "questions": [
+            "简单介绍一下自己的经历，以及为什么选择AI Agent方向？",
+            "平时开发过程中主要使用哪些AI Coding工具？",
+            "如何理解Spec Coding和Harness？",
+            "如果让你从零开始设计一个Agent系统，你认为需要包含哪些关键模块？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [
