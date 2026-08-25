@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-25",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2032,6 +2032,44 @@
         "project-deep-dive"
       ],
       "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-62e16b419ed756d2",
+      "title": "【三年面试五年模拟】2026-08-16_拼多多_AI Agent岗两轮技术面经分享（含完整答案）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/919634965879324672?sourceSSR=search",
+      "sourceDate": "2026-08-25",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "Redis"
+          ],
+          "questions": [
+            "自我介绍，重点讲一下实习经历和 AI Agent 相关项目",
+            "介绍会议转写项目的完整流程，你在其中主要负责哪些模块？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "redis",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
     }
   ],
   "derivedClusters": [
