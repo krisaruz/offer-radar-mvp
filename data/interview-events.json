@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-09-01",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2070,6 +2070,82 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-00a63215585dd127",
+      "title": "【三年面试五年模拟】2026-08-18_哔哩哔哩_AI应用岗Agent开发一面面经（含完整答案）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923535010743754752?sourceSSR=search",
+      "sourceDate": "2026-09-01",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "测试设计"
+          ],
+          "questions": [
+            "简单介绍一下自己的背景，以及选择AI Agent方向的原因",
+            "一个完整的Agent系统通常包含哪些核心模块？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-376b4cd82cd8a3ad",
+      "title": "长鑫存储AI Agent开发工程师一面，面完了！！！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923724858251300864?sourceSSR=search",
+      "sourceDate": "2026-09-01",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "Agent架构",
+            "MCP/工具调用",
+            "大模型"
+          ],
+          "questions": [
+            "Reflexion（反思机制） 在ReAct基础上增加 自我反思 组件",
+            "Plan-and-Execute（规划-执行分离） 先让LLM做 全局规划 （分解成子任务DAG），再按计划逐步执行",
+            "ReWOO（推理-工具调用解耦） 把推理和工具调用分成两个独立模块，而不是交替进行",
+            "Co-ReAct（评分卡引导） 用专门的 评分卡生成器 在每一步提供引导，提升多步推理的准确性",
+            "ReflAct（目标状态反思） 不只是规划下一步，而是持续反思当前状态与目标的差距"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-09-01",
   "dailyCount": 5,
   "questions": [
     {
@@ -800,6 +800,86 @@
         "memory",
         "algorithm",
         "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-376b4cd82cd8a3ad-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "Reflexion（反思机制） 在ReAct基础上增加 自我反思 组件",
+      "question": "Reflexion（反思机制） 在ReAct基础上增加 自我反思 组件",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923724858251300864?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory"
+      ]
+    },
+    {
+      "id": "nowcoder-376b4cd82cd8a3ad-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "Plan-and-Execute（规划-执行分离） 先让LLM做 全局规划 （分解成子任务DAG），...",
+      "question": "Plan-and-Execute（规划-执行分离） 先让LLM做 全局规划 （分解成子任务DAG），再按计划逐步执行",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923724858251300864?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory"
+      ]
+    },
+    {
+      "id": "nowcoder-376b4cd82cd8a3ad-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "ReWOO（推理-工具调用解耦） 把推理和工具调用分成两个独立模块，而不是交替进行",
+      "question": "ReWOO（推理-工具调用解耦） 把推理和工具调用分成两个独立模块，而不是交替进行",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923724858251300864?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory"
+      ]
+    },
+    {
+      "id": "nowcoder-376b4cd82cd8a3ad-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "Co-ReAct（评分卡引导） 用专门的 评分卡生成器 在每一步提供引导，提升多步推理的准确性",
+      "question": "Co-ReAct（评分卡引导） 用专门的 评分卡生成器 在每一步提供引导，提升多步推理的准确性",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923724858251300864?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory"
+      ]
+    },
+    {
+      "id": "nowcoder-376b4cd82cd8a3ad-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "ReflAct（目标状态反思） 不只是规划下一步，而是持续反思当前状态与目标的差距",
+      "question": "ReflAct（目标状态反思） 不只是规划下一步，而是持续反思当前状态与目标的差距",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923724858251300864?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory"
       ]
     },
     {
