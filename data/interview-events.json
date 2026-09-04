@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-04",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2183,6 +2183,210 @@
         "algorithm",
         "project-deep-dive"
       ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-25579d9f4f2ab7ec",
+      "title": "DeepSeek Agent开发岗三面，再面一轮就offer啦！！！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceDate": "2026-09-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "Agent架构",
+            "Redis",
+            "MySQL"
+          ],
+          "questions": [
+            "怎么定义幻觉和引用错误？",
+            "自我介绍 开门见山问了这个问题",
+            "重点介绍AI私人助理项目 面试官对这个项目很感兴趣，让我详细讲一下",
+            "AI私人助理整体架构怎么设计？",
+            "高准确性场景怎么控制幻觉？",
+            "幻觉率和引用错误率多少？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-d19ec7f468f3a511",
+      "title": "2018 这一年_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353154726600581120?sourceSSR=search",
+      "sourceDate": "2026-09-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "测试设计",
+            "Redis",
+            "算法"
+          ],
+          "questions": [
+            "问项目和职业规划",
+            "几个相关的问题我都没回答出来，比如如何实现守护进程，Linux 信号机制，Linux 线程的不可中断阻塞状态如何进入等等",
+            "一些基础知识，问到进程调度算法，面试官让我实现一个任务调度系统",
+            "我一个场景分析问题，我想了一会儿没想出来，于是面试官拿起草稿纸把各种需求详细说了一遍，然后把系统架构图也画了出来",
+            "一些 C++ 的问题，但是我都说到 Java 相关的实现上",
+            "几个算法，本来要求手写，我说我实现过，所以就讲了讲思路"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "redis",
+        "algorithm",
+        "project-deep-dive",
+        "test-case-design"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-6f11893a16ff2f11",
+      "title": "招行信用卡中心2022秋招，人力资源等职能岗内推_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158483367370752?sourceSSR=search",
+      "sourceDate": "2026-09-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "1亿掌上生活APP累计用户数，在2020年创造了4",
+            "金融科技头部厂牌，天生实力派，为你的未来领航加速2、关注新人成长路径，多元化职业发展通路供你选择3、完善的福利体系和薪酬待遇，超有竞争力4、轻松开放的工作氛围，"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-2bf7d62e5d195850",
+      "title": "作者介绍_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353148599284473856?sourceSSR=search",
+      "sourceDate": "2026-09-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "测试设计",
+            "Redis",
+            "算法"
+          ],
+          "questions": [
+            "问项目和职业规划",
+            "几个相关的问题我都没回答出来，比如如何实现守护进程，Linux 信号机制，Linux 线程的不可中断阻塞状态如何进入等等",
+            "一些基础知识，问到进程调度算法，面试官让我实现一个任务调度系统",
+            "我一个场景分析问题，我想了一会儿没想出来，于是面试官拿起草稿纸把各种需求详细说了一遍，然后把系统架构图也画了出来",
+            "一些 C++ 的问题，但是我都说到 Java 相关的实现上",
+            "几个算法，本来要求手写，我说我实现过，所以就讲了讲思路"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "redis",
+        "algorithm",
+        "project-deep-dive",
+        "test-case-design"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-eea62553cb2002f3",
+      "title": "造车这事，巨头们太草率了_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353148849726365696?sourceSSR=search",
+      "sourceDate": "2026-09-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "4%这一比例"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-3975125699929711",
+      "title": "招行信用卡中心2022秋招，人力资源等职能岗内推_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353158543870205952?sourceSSR=search",
+      "sourceDate": "2026-09-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "1亿掌上生活APP累计用户数，在2020年创造了4",
+            "金融科技头部厂牌，天生实力派，为你的未来领航加速2、关注新人成长路径，多元化职业发展通路供你选择3、完善的福利体系和薪酬待遇，超有竞争力4、轻松开放的工作氛围，"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
       "recruitingType": "excluded"
     }
   ],

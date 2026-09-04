@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-04",
   "dailyCount": 5,
   "questions": [
     {
@@ -883,6 +883,114 @@
       ]
     },
     {
+      "id": "nowcoder-25579d9f4f2ab7ec-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "怎么定义幻觉和引用错误？",
+      "question": "怎么定义幻觉和引用错误？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-25579d9f4f2ab7ec-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "自我介绍 开门见山问了这个问题",
+      "question": "自我介绍 开门见山问了这个问题",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-25579d9f4f2ab7ec-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "重点介绍AI私人助理项目 面试官对这个项目很感兴趣，让我详细讲一下",
+      "question": "重点介绍AI私人助理项目 面试官对这个项目很感兴趣，让我详细讲一下",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-25579d9f4f2ab7ec-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "AI私人助理整体架构怎么设计？",
+      "question": "AI私人助理整体架构怎么设计？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-25579d9f4f2ab7ec-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "高准确性场景怎么控制幻觉？",
+      "question": "高准确性场景怎么控制幻觉？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-25579d9f4f2ab7ec-q5",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "幻觉率和引用错误率多少？",
+      "question": "幻觉率和引用错误率多少？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/923725484364419072?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "memory",
+        "redis",
+        "mysql",
+        "algorithm"
+      ]
+    },
+    {
       "id": "nowcoder-8b3733bdc76df3f6-q0",
       "priority": 2,
       "track": "通用",
@@ -1101,6 +1209,18 @@
         "algorithm",
         "test-case-design"
       ]
+    },
+    {
+      "id": "nowcoder-eea62553cb2002f3-q0",
+      "priority": 2,
+      "track": "通用",
+      "title": "4%这一比例",
+      "question": "4%这一比例",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353148849726365696?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": []
     },
     {
       "id": "agent-dev-multi-agent-vs-skills",
