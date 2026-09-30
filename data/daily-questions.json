@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-30",
   "dailyCount": 5,
   "questions": [
     {
@@ -1221,6 +1221,96 @@
       "sourceHasAnswer": false,
       "answer": "",
       "tags": []
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443-q0",
+      "priority": 2,
+      "track": "通用",
+      "title": "我一篇论文 3",
+      "question": "我一篇论文 3",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443-q1",
+      "priority": 2,
+      "track": "通用",
+      "title": "我的RAG项目) 4",
+      "question": "我的RAG项目) 4",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443-q2",
+      "priority": 2,
+      "track": "通用",
+      "title": "一些项目在RLHF层面的优化方向，DPO和PPO的trade off方面的问题 3",
+      "question": "一些项目在RLHF层面的优化方向，DPO和PPO的trade off方面的问题 3",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443-q3",
+      "priority": 2,
+      "track": "通用",
+      "title": "自我介绍 2",
+      "question": "自我介绍 2",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443-q4",
+      "priority": 2,
+      "track": "通用",
+      "title": "介绍项目(重点问了我的RAG项目) 4",
+      "question": "介绍项目(重点问了我的RAG项目) 4",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ]
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443-q5",
+      "priority": 2,
+      "track": "通用",
+      "title": "lora微调的原理是什么 6",
+      "question": "lora微调的原理是什么 6",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ]
     },
     {
       "id": "agent-dev-multi-agent-vs-skills",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-30",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2398,6 +2398,159 @@
       "sourcePlatform": "牛客",
       "sourceUrl": "https://www.nowcoder.com/discuss/928958530734813184?sourceSSR=search",
       "sourceDate": "2026-09-14",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "MCP/工具调用",
+            "算法"
+          ],
+          "questions": [
+            "简介 本人是2020年毕业于广东工业大学研究生：许乔丹，有国内大厂CVTE和世界500强企业工作经验，整理 超全面111道嵌入式面试题目答案解析（承诺提供专栏内",
+            "项目经验 如果你找的是单片机，那就只要单片机的项目，如果你是嵌入式linux，你可以最多写一个单片机项目，其他都要写嵌入式linux的项目",
+            "1 基于人脸属性识别的嵌入式电影推荐系统（嵌入式人工智能项目、可提供源码） 1）情况：为解决“信息过载”问题，提出基于人脸属性识别的广告推荐系统",
+            "2 基于Linux6818开发板的视频播放器（最好的入门项目，可提供源码） 本项目基于嵌入式linux6818开发板，制作一个音视频播放器",
+            "3 基于Linux6818开发板的智能车库项目（进阶项目，可提供源码） 没错，也是粤嵌6818开发板，搭配触摸屏、USB摄像头、音响，模拟实现真实场景中的智能车",
+            "嵌入式111道高频面试题 八股文不在于量多，熟悉以下111道题就够啦"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "tool-calling",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-47a6652517be5691",
+      "title": "【三年面试五年模拟】2026-09-03_字节跳动_AI Agent开发一面面经（含完整答案）_牛客网",
+      "company": "字节跳动",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/933733520864706560?sourceSSR=search",
+      "sourceDate": "2026-09-30",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "工具调用"
+          ],
+          "questions": [
+            "86 } ], &quot;missing_information&quot;: [&quot;",
+            "任务成功率、重复调用率、超时率、Token 成本和错误恢复率没有恶化"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "algorithm"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-06f3818601e6071b",
+      "title": "【三年面试五年模拟】2026-08-18_哔哩哔哩_AI Agent开发一面面经全解析（附完整完整）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/933730597812334592?sourceSSR=search",
+      "sourceDate": "2026-09-30",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "测试设计"
+          ],
+          "questions": [
+            "简单介绍一下自己的背景，以及选择AI Agent方向的原因",
+            "一个完整的Agent系统通常包含哪些核心模块？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "memory",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-fbe449b33a9b0443",
+      "title": "字节多模态大模型面经一面_牛客网",
+      "company": "字节跳动",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/932594519835443200?sourceSSR=search",
+      "sourceDate": "2026-09-30",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "大模型"
+          ],
+          "questions": [
+            "我一篇论文 3",
+            "我的RAG项目) 4",
+            "一些项目在RLHF层面的优化方向，DPO和PPO的trade off方面的问题 3",
+            "自我介绍 2",
+            "介绍项目(重点问了我的RAG项目) 4",
+            "lora微调的原理是什么 6"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "rag",
+        "project-deep-dive"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-4e5fcdb3964a1d52",
+      "title": "嵌入式面经111题答案汇总(含技术答疑)_3大嵌入式项目源码分享—嵌入式Linux项目_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/933469884824944640?sourceSSR=search",
+      "sourceDate": "2026-09-30",
       "evidenceLevel": "medium",
       "rounds": [
         {
