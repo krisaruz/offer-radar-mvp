@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-05",
   "dailyCount": 5,
   "questions": [
     {
@@ -987,6 +987,36 @@
         "memory",
         "redis",
         "mysql",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-b2e6d592ce3296c5-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "那KV Cache的代价是什么？",
+      "question": "那KV Cache的代价是什么？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/933731739082510336?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-b2e6d592ce3296c5-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "KV Cache是什么？",
+      "question": "KV Cache是什么？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/933731739082510336?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
         "algorithm"
       ]
     },

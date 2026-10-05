@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-05",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2580,6 +2580,40 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-b2e6d592ce3296c5",
+      "title": "【三年面试五年模拟】2026-09-01 阿里云AI Agent 算法一面面经全解析（含完整答案）_牛客网",
+      "company": "阿里巴巴",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/933731739082510336?sourceSSR=search",
+      "sourceDate": "2026-10-05",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "Agent架构",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "那KV Cache的代价是什么？",
+            "KV Cache是什么？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [
