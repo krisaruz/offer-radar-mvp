@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-26",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2649,6 +2649,76 @@
       "takeaways": [],
       "tags": [
         "tool-calling",
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-a923a22bcb430f0e",
+      "title": "秋招总结和建议-【互联网】【国企】【公务员】_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353157453040787456?sourceSSR=search",
+      "sourceDate": "2026-10-26",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "算法"
+          ],
+          "questions": [
+            "自己的秋招进度 互联网收获的offer 公司 地点 岗位 薪资待遇 其他 offer定位 金山游戏 珠海 游戏算法工程师 18k * 13~15 不定期加班、免",
+            "5 两年免费住宿、食堂 未知 国企or公务员单位："
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "algorithm",
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-1213d603b9bc14e0",
+      "title": "还愿，我的秋招终于结束了！！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/353157404709822464?sourceSSR=search",
+      "sourceDate": "2026-10-26",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "算法"
+          ],
+          "questions": [
+            "一些机器学习，深度学习，数学和概率统计的基础知识",
+            "提前批 8月份开始投提前批，岗位是计算机视觉，投了字节，pdd，网易等",
+            "正式批 9月中旬开始投正式批，岗位是广告，推荐，反欺诈等机器学习算法岗，互联网大厂小厂投了很多，笔试了一大波，最后只有字节给了面试",
+            "漫长的字节5面（两个岗位）",
+            "泰勒公式求e的近似值",
+            "有序矩阵中第k小个元素，leetcode378"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
         "algorithm",
         "project-deep-dive"
       ],
