@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-01",
   "dailyCount": 5,
   "questions": [
     {
@@ -1013,6 +1013,96 @@
       "question": "KV Cache是什么？",
       "sourcePlatform": "牛客",
       "sourceUrl": "https://www.nowcoder.com/discuss/933731739082510336?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "这个组的模型迭代节奏多快，有没有评测基建？",
+      "question": "这个组的模型迭代节奏多快，有没有评测基建？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "算法和工程在这边怎么协作？",
+      "question": "算法和工程在这边怎么协作？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "给一批笔记互动数据，按加权热度倒排再去重，输出前 N",
+      "question": "给一批笔记互动数据，按加权热度倒排再去重，输出前 N",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "图文匹配题，判断一条评论属于哪篇笔记，给特征思路",
+      "question": "图文匹配题，判断一条评论属于哪篇笔记，给特征思路",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "一个生成式排序，要求按时间衰减，怎么设计打分？",
+      "question": "一个生成式排序，要求按时间衰减，怎么设计打分？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf-q5",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "多模态特征怎么融合，早期融合还是晚期？",
+      "question": "多模态特征怎么融合，早期融合还是晚期？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
       "sourceHasAnswer": false,
       "answer": "",
       "tags": [

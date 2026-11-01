@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-01",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2723,6 +2723,44 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-ebf635743d40ecbf",
+      "title": "【三年面试五年模拟】2026-09-22_小红书_大模型算法三轮面经（已OC）分享（含完整答案）_牛客网",
+      "company": "小红书",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/943146193184477184?sourceSSR=search",
+      "sourceDate": "2026-11-01",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "Agent架构",
+            "算法",
+            "大模型"
+          ],
+          "questions": [
+            "这个组的模型迭代节奏多快，有没有评测基建？",
+            "算法和工程在这边怎么协作？",
+            "给一批笔记互动数据，按加权热度倒排再去重，输出前 N",
+            "图文匹配题，判断一条评论属于哪篇笔记，给特征思路",
+            "一个生成式排序，要求按时间衰减，怎么设计打分？",
+            "多模态特征怎么融合，早期融合还是晚期？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [
