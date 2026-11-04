@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-04",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2761,6 +2761,48 @@
         "algorithm"
       ],
       "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-971bf90a287044c7",
+      "title": "长鑫存储AI Agent开发工程师一面，面完了！！！_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/944317524546424832?sourceSSR=search",
+      "sourceDate": "2026-11-04",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "MCP/工具调用"
+          ],
+          "questions": [
+            "{original_query}&quot; ] queries = [llm",
+            "“它多少钱？",
+            "： Q：部门是做什么的？",
+            "Reflexion（反思机制） 在ReAct基础上增加 自我反思 组件",
+            "Plan-and-Execute（规划-执行分离） 先让LLM做 全局规划 （分解成子任务DAG），再按计划逐步执行",
+            "ReWOO（推理-工具调用解耦） 把推理和工具调用分成两个独立模块，而不是交替进行"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ],
+      "recruitingType": "excluded"
     }
   ],
   "derivedClusters": [
