@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "dailyCount": 5,
   "questions": [
     {
@@ -1431,6 +1431,30 @@
         "rag",
         "project-deep-dive"
       ]
+    },
+    {
+      "id": "nowcoder-c269c02b25b609f6-q0",
+      "priority": 2,
+      "track": "通用",
+      "title": "11 华为 机试： 1、第一行输入一个数N（1&lt;=N&lt;=10000)表示数组有n个元素，...",
+      "question": "11 华为 机试： 1、第一行输入一个数N（1&lt;=N&lt;=10000)表示数组有n个元素，第二行输入为数组的元素，数组中所有值不同",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/354084174464159744?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": []
+    },
+    {
+      "id": "nowcoder-c269c02b25b609f6-q1",
+      "priority": 2,
+      "track": "通用",
+      "title": "找出围棋中黑子与白子的活子数",
+      "question": "找出围棋中黑子与白子的活子数",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/354084174464159744?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": []
     },
     {
       "id": "agent-dev-multi-agent-vs-skills",
