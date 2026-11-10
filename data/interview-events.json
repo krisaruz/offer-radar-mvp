@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2868,6 +2868,132 @@
         "algorithm",
         "project-deep-dive"
       ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-7563f4dc07dcf294",
+      "title": "好未来 学科策略运营一面面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/792720516149706752?sourceSSR=search",
+      "sourceDate": "2026-11-10",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "自我介绍 2",
+            "你之前实习公司的团队氛围如何 4",
+            "用三点概括你对于这份实习想要学习到的东西 6",
+            "你希望你和mentor是什么样的关系 #发面经，攒人品#"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-9c0b4d6822a02443",
+      "title": "24届经管弟中弟的春秋招记录（附面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/611663792925159424?sourceSSR=search",
+      "sourceDate": "2026-11-10",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖"
+          ],
+          "questions": [
+            "看完这个电影以后你有什么感受？",
+            "很多，但暂时只记得这些） 在滴滴bp的实习中，你觉得自己最有价值或者最有感触的一点是什么 宝洁八大问 你觉得企业文化的价值是什么 招聘过程中，你跟业务部门对接的",
+            "offer情况 对base地的薪资 反问环节 三面为线上1v4面试，一面面试官（旁听）+二面面试官（旁听）+HRD（提问）+业务部门leader（旁听），提问如",
+            "个遍 滴滴工作强度 对于base地的选择 你对于工作的期待 选择offer考量的因素 学校还有啥事？",
+            "一些别的比较私人的问题（聊天性质，感觉在考察稳定性） 二面为1v2线下面，一面面试官和部门hrbp一起上，牺牲掉五一假期去准备了，提问如下： 对于OD的理解？",
+            "15更新：已经收到梦司offer，春招结束了 楼主bg： 专业：双2经管硕（商科非人力专业），中间二战了gap一年 实习：一段小厂（人力助理，做oc和招聘）、一"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-3b17f15cbd3d6cb3",
+      "title": "12场 品牌、市场、短视频编导 实习方向面经_牛客网",
+      "company": "小红书",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/538415928334209024?sourceSSR=search",
+      "sourceDate": "2026-11-10",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "大模型"
+          ],
+          "questions": [
+            "现在团队的一个工作流程大概是什么样的？",
+            "咱们团队成员是有多少人？",
+            "团队成员大概是多少人？",
+            "工作方向是更偏向于商业方向还是更偏向于学术方向？",
+            "归纳文档就是每日都要复盘的那种吗？",
+            "团队人数是多少？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "project-deep-dive"
+      ],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-f4362cacd25c25d3",
+      "title": "平安产险（23届秋招）前端一二面面经_牛客网",
+      "company": "未知公司",
+      "roleTrack": "通用",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/411632750686478336?sourceSSR=search",
+      "sourceDate": "2026-11-10",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [],
+          "questions": [
+            "21 投简历 岗位名叫：平安产险-2023届总部科技管培生（前端方向）"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [],
       "recruitingType": "excluded"
     }
   ],
