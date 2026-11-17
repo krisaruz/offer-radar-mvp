@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-17",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -2994,6 +2994,48 @@
       ],
       "takeaways": [],
       "tags": [],
+      "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-c948e4d2b48518f3",
+      "title": "【三年面试五年模拟】2026-10-19_顺丰科技AI开发工程师一面面经分享（含完整答案）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800879806849024?sourceSSR=search",
+      "sourceDate": "2026-11-17",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "测试设计"
+          ],
+          "questions": [
+            "简单介绍一下实习经历，主要做了什么？",
+            "几个项目里面，觉得哪个做得比较好？",
+            "讲一下项目的整体架构和技术栈",
+            "能不能举一个完整的例子，把项目所有核心功能串起来？",
+            "用户使用系统时，先输入什么？",
+            "用户输入相关资料后，最终会输出哪些结果？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "redis",
+        "algorithm",
+        "project-deep-dive"
+      ],
       "recruitingType": "excluded"
     }
   ],
