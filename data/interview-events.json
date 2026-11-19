@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "scopeNote": "Auto-collected from public sources via GitHub Actions daily run.",
   "events": [
     {
@@ -3037,6 +3037,90 @@
         "project-deep-dive"
       ],
       "recruitingType": "excluded"
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d",
+      "title": "【三年面试五年模拟】2026-10-12_美团 AI Agent一面面经分享（含完整答案）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceDate": "2026-11-19",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "Agent架构",
+            "MCP/工具调用",
+            "工具调用"
+          ],
+          "questions": [
+            "可以详细介绍一下项目：项目场景、设计方案、开发内容？",
+            "选取一个真实问题单，完整描述从Agent接收输入，走完全流程，到产出最终结果的整条链路？",
+            "测试报告/测试用例设计，如何判断符合本次新需求改动？",
+            "需求文档、技术方案为什么没有作为输入信息纳入系统？",
+            "最终产出的结果只是文本，是否会执行真实任务？",
+            "信息如何持续积累、迭代更新？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ],
+      "recruitingType": "unspecified"
+    },
+    {
+      "id": "nowcoder-46783424407b3a34",
+      "title": "【三年面试五年】AI Agent高频工程面试80问分享（含完整答案，持续更新！）_牛客网",
+      "company": "未知公司",
+      "roleTrack": "Agent开发",
+      "seniority": "未说明招聘类型",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceDate": "2026-11-19",
+      "evidenceLevel": "medium",
+      "rounds": [
+        {
+          "name": "技术面",
+          "durationMin": null,
+          "durationLabel": "未标注时长",
+          "interviewer": "技术面试官",
+          "focus": [
+            "项目深挖",
+            "RAG",
+            "Agent架构",
+            "MCP/工具调用"
+          ],
+          "questions": [
+            "什么是 Agent？",
+            "一个完整的 Agent 系统通常包含哪些组件？",
+            "提示词工程、上下文工程和 Harness Engineering 有什么区别？",
+            "上下文工程具体要做哪些事？",
+            "Harness 通常需要管理哪些内容？",
+            "从大模型问答到工具调用，再到 Agent，主要增加了哪些能力？"
+          ]
+        }
+      ],
+      "takeaways": [],
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ],
+      "recruitingType": "unspecified"
     }
   ],
   "derivedClusters": [

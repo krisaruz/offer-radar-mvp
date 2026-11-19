@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "dailyCount": 5,
   "questions": [
     {
@@ -1108,6 +1108,222 @@
       "tags": [
         "agent-architecture",
         "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "可以详细介绍一下项目：项目场景、设计方案、开发内容？",
+      "question": "可以详细介绍一下项目：项目场景、设计方案、开发内容？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "选取一个真实问题单，完整描述从Agent接收输入，走完全流程，到产出最终结果的整条链路？",
+      "question": "选取一个真实问题单，完整描述从Agent接收输入，走完全流程，到产出最终结果的整条链路？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "测试报告/测试用例设计，如何判断符合本次新需求改动？",
+      "question": "测试报告/测试用例设计，如何判断符合本次新需求改动？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "需求文档、技术方案为什么没有作为输入信息纳入系统？",
+      "question": "需求文档、技术方案为什么没有作为输入信息纳入系统？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "最终产出的结果只是文本，是否会执行真实任务？",
+      "question": "最终产出的结果只是文本，是否会执行真实任务？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-00c0381b42dfde7d-q5",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "信息如何持续积累、迭代更新？",
+      "question": "信息如何持续积累、迭代更新？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950796586802479104?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "tool-calling",
+        "memory",
+        "redis",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "nowcoder-46783424407b3a34-q0",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "什么是 Agent？",
+      "question": "什么是 Agent？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ]
+    },
+    {
+      "id": "nowcoder-46783424407b3a34-q1",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "一个完整的 Agent 系统通常包含哪些组件？",
+      "question": "一个完整的 Agent 系统通常包含哪些组件？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ]
+    },
+    {
+      "id": "nowcoder-46783424407b3a34-q2",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "提示词工程、上下文工程和 Harness Engineering 有什么区别？",
+      "question": "提示词工程、上下文工程和 Harness Engineering 有什么区别？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ]
+    },
+    {
+      "id": "nowcoder-46783424407b3a34-q3",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "上下文工程具体要做哪些事？",
+      "question": "上下文工程具体要做哪些事？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ]
+    },
+    {
+      "id": "nowcoder-46783424407b3a34-q4",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "Harness 通常需要管理哪些内容？",
+      "question": "Harness 通常需要管理哪些内容？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
+      ]
+    },
+    {
+      "id": "nowcoder-46783424407b3a34-q5",
+      "priority": 2,
+      "track": "Agent开发",
+      "title": "从大模型问答到工具调用，再到 Agent，主要增加了哪些能力？",
+      "question": "从大模型问答到工具调用，再到 Agent，主要增加了哪些能力？",
+      "sourcePlatform": "牛客",
+      "sourceUrl": "https://www.nowcoder.com/discuss/950800001213464576?sourceSSR=search",
+      "sourceHasAnswer": false,
+      "answer": "",
+      "tags": [
+        "agent-architecture",
+        "rag",
+        "tool-calling",
+        "memory",
+        "redis"
       ]
     },
     {
